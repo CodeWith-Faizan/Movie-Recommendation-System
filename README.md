@@ -20,8 +20,7 @@ It combines **Content-Based Filtering**, **Collaborative Filtering**, and a **Hy
 ## 🚀 Usage
 1. Clone the repository:
 ```bash
-   git clone https://github.com/username/movie-recommendation-system.git
-   cd movie-recommendation-system
+   git clone https://github.com/CodeWith-Faizan/Movie-Recommendation-System
 ```
 
 2. Install dependencies:
